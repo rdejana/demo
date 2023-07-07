@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo
+  name: demo2
   description: An example deployment of a Backstage application.
   annotations:
-    github.com/project-slug: backstage/demo
+    github.com/project-slug: backstage/demo2
     quay.io/repository-slug: public/ubi8
 spec:
   type: website
